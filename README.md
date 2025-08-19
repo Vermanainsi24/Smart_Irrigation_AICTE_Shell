@@ -92,7 +92,7 @@ Smart_Irrigation/
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/Vermanainsi24/Smart_Irrigation_AICTE_Shell.git
+   git clone https://github.com/Vermanainsi24/Smart-Irrigation-using-Soil-Moisture.git
    cd your-repo-name
    ````
 2.**Run the Streamlit app**
